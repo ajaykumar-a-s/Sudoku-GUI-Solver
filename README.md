@@ -12,4 +12,4 @@ Click a box and hit the number on keybaord to pencil in a number. To confirm tha
 
 You can also run Sudoku-GUI-Solver in Gitpod, a free online dev environment for GitHub:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/start/#ajaykumaras-sudokuguiso-mkrr7q19a8u)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ajaykumar-a-s/Sudoku-GUI-Solver/blob/master/GUI.py)
